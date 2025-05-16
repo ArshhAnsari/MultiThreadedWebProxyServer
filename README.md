@@ -52,9 +52,10 @@ Or configure your browser to use the proxy server:
 - Address: localhost
 - Port: 8080 (or your custom port)
 
-## 📘 Detailed Explanation
+## 📘 Documentation
 
-See [Explanation.md](./Explanation.md) for architecture, design choices, and core OS concepts used in the project.
+- 🔍 [Explanation.md](./Explanation.md): Covers the architecture, design decisions, and OS-level concepts used in building this project.
+- 🎥 [ProxyServerDemo.md](./ProxyServerDemo.md): Walkthrough of test scenarios with commands and visual outputs.
 
 ## ⚠️ Limitations
 
