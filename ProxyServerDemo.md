@@ -110,6 +110,4 @@ curl -v --proxy http://localhost:8080 http://thisurldoesnotexist123.com
 
 ---
 
-> **Project Root:** `PS C:\Users\Mohd Arsh\MultiThreadedWebProxyServer`
-
 *Thank you for exploring this demo! Feel free to clone the repo and try these commands yourself.* 🎉
